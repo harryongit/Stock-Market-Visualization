@@ -1,7 +1,7 @@
 # Stock Market Visualization
 
 ## Overview
-A comprehensive Python-based application for stock market data analysis, visualization, and insights generation.
+A comprehensive Python-based application for stock market data analysis, visualization, and insights generation..
 
 ## Features
 - Real-time stock data retrieval
